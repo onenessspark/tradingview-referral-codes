@@ -1,4 +1,4 @@
-# TradingView Referral Program
+# TradingView Referral Code
 
 TradingView is one of the most popular charting platforms used by traders across stocks, crypto, forex, and futures. It has powerful tools, hundreds of indicators, and Pine Script for creating custom strategies.
 
